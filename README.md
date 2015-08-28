@@ -1,5 +1,5 @@
 # Jul31
-App provide a list of option from google Voice Recognition. App showing use of:
+App provide a list of posible options from Google Voice Results. App showing use of:
 
 1. App handle Voice Recognition intents
 2. Handle the results from the voice recognition activity and show in List View
